@@ -1,0 +1,58 @@
+C:\Users\cwool\source\repos\Resume Template\Resume Template\bin\Debug\net6.0-windows\Resume Template.exe
+C:\Users\cwool\source\repos\Resume Template\Resume Template\bin\Debug\net6.0-windows\Resume Template.deps.json
+C:\Users\cwool\source\repos\Resume Template\Resume Template\bin\Debug\net6.0-windows\Resume Template.runtimeconfig.json
+C:\Users\cwool\source\repos\Resume Template\Resume Template\bin\Debug\net6.0-windows\Resume Template.dll
+C:\Users\cwool\source\repos\Resume Template\Resume Template\bin\Debug\net6.0-windows\Resume Template.pdb
+C:\Users\cwool\source\repos\Resume Template\Resume Template\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\cwool\source\repos\Resume Template\Resume Template\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\cwool\source\repos\Resume Template\Resume Template\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.csproj.AssemblyReference.cache
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\ResumeObject.g.cs
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template_MarkupCompile.cache
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template_MarkupCompile.lref
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\App.baml
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\ResumeObject.baml
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.g.resources
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.AssemblyInfoInputs.cache
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.AssemblyInfo.cs
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.csproj.CoreCompileInputs.cache
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.csproj.CopyComplete
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.dll
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\refint\Resume Template.dll
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.pdb
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.genruntimeconfig.cache
+C:\Users\cwool\source\repos\Resume Template\Resume Template\obj\Debug\net6.0-windows\ref\Resume Template.dll
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\bin\Debug\net6.0-windows\Resume Template.exe
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\bin\Debug\net6.0-windows\Resume Template.deps.json
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\bin\Debug\net6.0-windows\Resume Template.runtimeconfig.json
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\bin\Debug\net6.0-windows\Resume Template.dll
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\bin\Debug\net6.0-windows\Resume Template.pdb
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.csproj.AssemblyReference.cache
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\ResumeObject.g.cs
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template_MarkupCompile.cache
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template_MarkupCompile.lref
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\App.baml
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\ResumeObject.baml
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.g.resources
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.AssemblyInfoInputs.cache
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.AssemblyInfo.cs
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.csproj.CoreCompileInputs.cache
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.csproj.CopyComplete
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.dll
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\refint\Resume Template.dll
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.pdb
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\Resume Template.genruntimeconfig.cache
+C:\Users\cwool\source\repos\Resume Projects\Resume Template\Resume Template\obj\Debug\net6.0-windows\ref\Resume Template.dll

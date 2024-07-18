@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vb3jL1WFgPYRbxVwzr25bs9v4LyGRjZTZttHSC/HTb6CKmqQV92Sjrxg2wjGysTuCrYZWVNryVcNYKRZdEy5aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cwool\\source\\repos\\Resume Projects\\Resume Template\\Resume Template\\Resume Template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cwool\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\cwool\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\cwool\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
