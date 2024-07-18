@@ -1,0 +1,42 @@
+﻿<Application x:Class="WPF_Resume_Template.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_Resume_Template"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="Blue" SecondaryColor="Green" ColorAdjustment="{materialDesign:ColorAdjustment}" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Green.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <SolidColorBrush x:Key="PrimaryHueLight">#65a488</SolidColorBrush>
+            <SolidColorBrush  x:Key="PrimaryHueMid">#FF4081</SolidColorBrush>
+            <SolidColorBrush  x:Key="PrimaryHueDark">#155873</SolidColorBrush >
+            <SolidColorBrush  x:Key="SecondaryHueLight">#2196F3</SolidColorBrush >
+            <SolidColorBrush  x:Key="SecondaryHueMid">#8f4217</SolidColorBrush >
+            <SolidColorBrush  x:Key="SecondaryHueDark">#6f4217</SolidColorBrush >
+            <Style x:Key="RoundCorners" TargetType="Border">
+                <Setter Property="CornerRadius" Value="5"/>
+                <Setter Property="Background" Value="Transparent"/>
+                <Setter Property="BorderThickness" Value="0"/>
+                <Setter Property="VerticalAlignment" Value="Center"/>
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+            </Style>
+            <ControlTemplate x:Key="PackIconTemplate" TargetType="materialDesign:PackIcon">
+                <Border Background="{TemplateBinding Background}" 
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="{TemplateBinding BorderThickness}">
+                    <Canvas Width="{TemplateBinding Width}" Height="{TemplateBinding Height}" >
+                        <Path Data="{Binding Data, RelativeSource={RelativeSource TemplatedParent}}"                                   
+                              Fill="{TemplateBinding Foreground}" StrokeThickness="10"/>
+                    </Canvas>
+                </Border>
+            </ControlTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+

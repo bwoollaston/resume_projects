@@ -50,7 +50,7 @@ namespace Resume_Template {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "7.0.5.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.2.0")]
         public void InitializeComponent() {
             if (_contentLoaded) {
                 return;
@@ -62,7 +62,7 @@ namespace Resume_Template {
             
             #line default
             #line hidden
-            System.Uri resourceLocater = new System.Uri("/Resume Template;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Resume Template;V1.0.0.0;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -76,7 +76,7 @@ namespace Resume_Template {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "7.0.5.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.2.0")]
         public static void Main() {
             Resume_Template.App app = new Resume_Template.App();
             app.InitializeComponent();

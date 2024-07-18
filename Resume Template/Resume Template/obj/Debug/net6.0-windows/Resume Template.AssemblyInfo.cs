@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Resume Template")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46fe1edd5e8b6b01979bf142a7b0f30dd74dfb15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Resume Template")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Resume Template")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
