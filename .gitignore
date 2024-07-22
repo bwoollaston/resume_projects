@@ -1,0 +1,30 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Resume Template/.vs/ProjectEvaluation/resume template.metadata.v7.bin
+/Resume Template/.vs/ProjectEvaluation/resume template.projects.v7.bin
+/Resume Template/.vs/Resume Template/DesignTimeBuild/.dtbcache.v2
+/Resume Template/.vs/Resume Template/v17/.suo
+/Resume Template/.vs/Resume Template/v17/DocumentLayout.json
+/Resume Template/Resume Template/obj/Debug/net6.0-windows/Resume Template.AssemblyInfo.cs
+/Resume Template/Resume Template/obj/Debug/net6.0-windows/Resume Template.AssemblyInfoInputs.cache
+/WPF_Resume_Template/.vs/ProjectEvaluation/wpf_resume_template.metadata.v7.bin
+/WPF_Resume_Template/.vs/ProjectEvaluation/wpf_resume_template.projects.v7.bin
+/WPF_Resume_Template/.vs/WPF_Resume_Template/DesignTimeBuild/.dtbcache.v2
+*.vsidx
+/WPF_Resume_Template/.vs/WPF_Resume_Template/v17/.suo
+/WPF_Resume_Template/.vs/WPF_Resume_Template/v17/DocumentLayout.json
+/WPF_Resume_Template/.vs/WPF_Resume_Template/v17/.futdcache.v2
+/WPF_Resume_Template/WPF_Resume_Template/obj/WPF_Resume_Template.csproj.nuget.dgspec.json
+/WPF_Resume_Template/WPF_Resume_Template/obj/project.nuget.cache
+/WPF_Resume_Template/WPF_Resume_Template/obj/project.assets.json
+/WPF_Resume_Template/WPF_Resume_Template/obj/Debug/net6.0-windows/View/ProgressItemView.baml
+/WPF_Resume_Template/WPF_Resume_Template/obj/Debug/net6.0-windows/View/ProgressItemView.g.cs
+/WPF_Resume_Template/WPF_Resume_Template/obj/Debug/net6.0-windows/View/ProgressItemView.g.i.cs
+/WPF_Resume_Template/WPF_Resume_Template/obj/Debug/net6.0-windows/View/ProgView.baml
+/WPF_Resume_Template/WPF_Resume_Template/obj/Debug/net6.0-windows/View/ProgView.g.cs
+/WPF_Resume_Template/WPF_Resume_Template/obj/Debug/net6.0-windows/View/ProgView.g.i.cs
+/WPF_Resume_Template/WPF_Resume_Template/obj/Debug/net6.0-windows/View/ResumeObject.baml
+/WPF_Resume_Template/WPF_Resume_Template/obj/Debug/net6.0-windows/View/ResumeObject.g.cs
+/WPF_Resume_Template/WPF_Resume_Template/obj/Debug/net6.0-windows/View/ResumeObject.g.i.cs
