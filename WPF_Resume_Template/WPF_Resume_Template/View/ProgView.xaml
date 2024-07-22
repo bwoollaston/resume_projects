@@ -4,9 +4,94 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:WPF_Resume_Template.View"
+             xmlns:vm="clr-namespace:WPF_Resume_Template.ViewModel"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
+             TextElement.Foreground="LightGray"
+             TextElement.FontFamily="Bahnschrift Light"
+             Height="1100" Width="850" FontFamily="Bahnschrift Light">
+    <UserControl.Resources>
+        <SolidColorBrush x:Key="AccentBrush" Color="#154B4C"/>
+        <SolidColorBrush x:Key="AccentTextBrush" Color="LightGray"/>
+        <Style x:Key="HeaderItemStyle" TargetType="ContentControl">
+            <Setter Property="Foreground" Value="{StaticResource AccentTextBrush}"/>
+            <Setter Property="Padding" Value="2"/>
+            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ContentControl">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label
+                             Grid.Column="0" 
+                             Content="{TemplateBinding Tag}"
+                             Foreground="{TemplateBinding Foreground}"/>
+                            <TextBlock
+                             Grid.Column="1"
+                             Text="{TemplateBinding Content}"
+                             Foreground="{TemplateBinding Foreground}"
+                             VerticalAlignment="Center"
+                             Margin="8,0,0,0"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
     <Grid>
-            
+        <Grid.RowDefinitions>
+            <RowDefinition Height="110"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <md:Card Background="{StaticResource AccentBrush}" Padding="15,10" UniformCornerRadius="0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="1" HorizontalAlignment="Stretch">
+                    <ContentControl Style="{StaticResource HeaderItemStyle}" 
+                                     Content="(910) 262-0201"
+                                     Tag="{md:PackIcon Kind=Cellphone}"/>
+                    <ContentControl Style="{StaticResource HeaderItemStyle}" 
+                                     Content="cwoollas@gmail.com"
+                                     Tag="{md:PackIcon Kind=Email}"/>
+                    <ContentControl Style="{StaticResource HeaderItemStyle}" 
+                                     Content="linkedin.com/in/collinwoollaston"
+                                     Tag="{md:PackIcon Kind=Linkedin}"/>
+                </StackPanel>
+                <StackPanel>
+                    <TextBlock Text="BRODIE WOOLLASTON" Style="{DynamicResource MaterialDesignBody1TextBlock}" FontWeight="Bold" FontSize="28" Margin="0,0,0,5"/>
+                    <TextBlock Text="ELECTRONICS AND SOFTWARE ENGINEERING" Style="{DynamicResource MaterialDesignBody1TextBlock}" FontSize="14" FontWeight="Bold" Margin="0"/>
+                </StackPanel>
+            </Grid>
+        </md:Card>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.6*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <ContentControl Content="{Binding SummaryViewModel}">
+                <ContentControl.Resources>
+                    <DataTemplate DataType="{x:Type vm:ResumeObectViewModel}">
+                        <local:ResumeObject/>
+                    </DataTemplate>
+                </ContentControl.Resources>
+            </ContentControl>
+            <ContentControl Content="{Binding LanguagesViewModel}" Grid.Row="1">
+                <ContentControl.Resources>
+                    <DataTemplate DataType="{x:Type vm:ResumeProgressObjectViewModel}">
+                        <local:ProgressItemView/>
+                    </DataTemplate>
+                </ContentControl.Resources>
+            </ContentControl>
+        </Grid>
     </Grid>
 </UserControl>

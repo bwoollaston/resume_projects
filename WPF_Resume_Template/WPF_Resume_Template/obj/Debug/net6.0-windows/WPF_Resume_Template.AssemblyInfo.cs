@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPF_Resume_Template")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f54abbdce75cf28030b39375fa372a2ddbb5c2cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPF_Resume_Template")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPF_Resume_Template")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

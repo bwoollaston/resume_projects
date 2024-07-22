@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Repos\WPF_Resume_Template\WPF_Resume_Template\obj\Debug\net6.0-windows\
+D:\Repos\resume_projects\WPF_Resume_Template\WPF_Resume_Template\obj\Debug\net6.0-windows\
 WPF_Resume_Template
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\Repos\WPF_Resume_Template\WPF_Resume_Template\App.xaml
-2130408420
+D:\Repos\resume_projects\WPF_Resume_Template\WPF_Resume_Template\App.xaml
+41608987325
 
-9-681305911
+151150633099
 200580733639
-MainWindow.xaml;View\ProgView.xaml;
+MainWindow.xaml;View\ProgressItemView.xaml;View\ProgView.xaml;View\ResumeObject.xaml;
 
 True
 

@@ -13,13 +13,10 @@
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
             </ResourceDictionary.MergedDictionaries>
-            <SolidColorBrush x:Key="PrimaryHueLight">#65a488</SolidColorBrush>
-            <SolidColorBrush  x:Key="PrimaryHueMid">#FF4081</SolidColorBrush>
-            <SolidColorBrush  x:Key="PrimaryHueDark">#155873</SolidColorBrush >
-            <SolidColorBrush  x:Key="SecondaryHueLight">#2196F3</SolidColorBrush >
-            <SolidColorBrush  x:Key="SecondaryHueMid">#8f4217</SolidColorBrush >
-            <SolidColorBrush  x:Key="SecondaryHueDark">#6f4217</SolidColorBrush >
-            <Style x:Key="RoundCorners" TargetType="Border">
+            <SolidColorBrush x:Key="PrimaryHueLight">White</SolidColorBrush>
+            <SolidColorBrush  x:Key="AccentBrush">#154B4C</SolidColorBrush >
+            <SolidColorBrush  x:Key="PrimaryTextBrush">#304130</SolidColorBrush >
+            <!--<Style x:Key="RoundCorners" TargetType="Border">
                 <Setter Property="CornerRadius" Value="5"/>
                 <Setter Property="Background" Value="Transparent"/>
                 <Setter Property="BorderThickness" Value="0"/>
@@ -35,7 +32,7 @@
                               Fill="{TemplateBinding Foreground}" StrokeThickness="10"/>
                     </Canvas>
                 </Border>
-            </ControlTemplate>
+            </ControlTemplate>-->
         </ResourceDictionary>
     </Application.Resources>
 </Application>
